@@ -1,1 +1,97 @@
-<mxfile host="app.diagrams.net" modified="2020-08-04T17:39:53.334Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" version="13.5.9" etag="XaobKogY-8CbMIgUlEm4" type="github"><diagram id="T1C6O-4U0QVq19qzxyLW">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-08-07T14:38:26.056Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="yySd4dXjKA_EfgAKAM0e" version="13.5.9" type="github">
+  <diagram id="T1C6O-4U0QVq19qzxyLW" name="Page-1">
+    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RzEK08kCcBfnKLf6N3Yp-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RzEK08kCcBfnKLf6N3Yp-4" target="RzEK08kCcBfnKLf6N3Yp-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RzEK08kCcBfnKLf6N3Yp-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/online-marketing-hand-drawn-vol-1/52/cloth__discount__sale__online__shopping__sales__ecommerce-128.png" vertex="1" parent="1">
+          <mxGeometry x="30" y="40" width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="RzEK08kCcBfnKLf6N3Yp-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RzEK08kCcBfnKLf6N3Yp-5" target="RzEK08kCcBfnKLf6N3Yp-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RzEK08kCcBfnKLf6N3Yp-5" value="Portal&lt;br&gt;1stCampaign = WF" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="122" y="43" width="98" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="RzEK08kCcBfnKLf6N3Yp-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RzEK08kCcBfnKLf6N3Yp-7" target="RzEK08kCcBfnKLf6N3Yp-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RzEK08kCcBfnKLf6N3Yp-7" value="HELOS/Acquire" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="300" y="43" width="98" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="RzEK08kCcBfnKLf6N3Yp-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RzEK08kCcBfnKLf6N3Yp-9" target="RzEK08kCcBfnKLf6N3Yp-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RzEK08kCcBfnKLf6N3Yp-9" value="Underwriting Checklist" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="478" y="43" width="98" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="RzEK08kCcBfnKLf6N3Yp-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RzEK08kCcBfnKLf6N3Yp-12" target="RzEK08kCcBfnKLf6N3Yp-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RzEK08kCcBfnKLf6N3Yp-12" value="System sets&lt;br&gt;Initial Inv/Ser/Sub&lt;br&gt;PHH/PHH/RMS" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="478" y="167" width="98" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="RzEK08kCcBfnKLf6N3Yp-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RzEK08kCcBfnKLf6N3Yp-14" target="RzEK08kCcBfnKLf6N3Yp-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RzEK08kCcBfnKLf6N3Yp-14" value="Postfunding&lt;br&gt;RMS Export Data" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="300" y="167" width="98" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="RzEK08kCcBfnKLf6N3Yp-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RzEK08kCcBfnKLf6N3Yp-16" target="RzEK08kCcBfnKLf6N3Yp-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RzEK08kCcBfnKLf6N3Yp-16" value="Postfunding manual ftp" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="122" y="167" width="98" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="RzEK08kCcBfnKLf6N3Yp-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RzEK08kCcBfnKLf6N3Yp-18" target="RzEK08kCcBfnKLf6N3Yp-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RzEK08kCcBfnKLf6N3Yp-18" value="Postfunding Receives Acknow Email&amp;nbsp;" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="122" y="289" width="98" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="RzEK08kCcBfnKLf6N3Yp-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RzEK08kCcBfnKLf6N3Yp-20" target="RzEK08kCcBfnKLf6N3Yp-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RzEK08kCcBfnKLf6N3Yp-20" value="PostFunding InvestorDelivery Importer" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="300" y="289" width="98" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="RzEK08kCcBfnKLf6N3Yp-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RzEK08kCcBfnKLf6N3Yp-22" target="RzEK08kCcBfnKLf6N3Yp-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RzEK08kCcBfnKLf6N3Yp-22" value="Docvelocity RMS Batch Delivery" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="478" y="289" width="98" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="RzEK08kCcBfnKLf6N3Yp-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RzEK08kCcBfnKLf6N3Yp-24" target="RzEK08kCcBfnKLf6N3Yp-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RzEK08kCcBfnKLf6N3Yp-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RzEK08kCcBfnKLf6N3Yp-24" target="RzEK08kCcBfnKLf6N3Yp-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RzEK08kCcBfnKLf6N3Yp-24" value="Hangfire Job Renames DVDocName to RMS Code" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="478" y="440" width="98" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="RzEK08kCcBfnKLf6N3Yp-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RzEK08kCcBfnKLf6N3Yp-26" target="RzEK08kCcBfnKLf6N3Yp-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RzEK08kCcBfnKLf6N3Yp-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RzEK08kCcBfnKLf6N3Yp-26" target="RzEK08kCcBfnKLf6N3Yp-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RzEK08kCcBfnKLf6N3Yp-26" value="Hangfire Job packages to FTP out Directory" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="300" y="440" width="98" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="RzEK08kCcBfnKLf6N3Yp-28" value="Ocwen Infr process will FTP files to RMS Vendor" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="122" y="440" width="98" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="RzEK08kCcBfnKLf6N3Yp-30" value="Update Loan level PDF Upload Date" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="300" y="591" width="98" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="RzEK08kCcBfnKLf6N3Yp-32" value="Emails PostClosing SubServicerID number missing" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="478" y="591" width="98" height="71" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
