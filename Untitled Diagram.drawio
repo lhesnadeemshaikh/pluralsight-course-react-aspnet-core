@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-07T14:56:16.010Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="Ja8N4YiM8x87rVGBCbAT" version="13.5.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-08-07T14:59:47.251Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="lDuu0zTSpO1iUKZqO5el" version="13.5.9" type="github" pages="2">
   <diagram id="T1C6O-4U0QVq19qzxyLW" name="Page-1">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -196,6 +196,27 @@
         </mxCell>
         <mxCell id="BEeGlGBGH3MMHQ-aXUM--34" value="Docvelocity Document delivery" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="BEeGlGBGH3MMHQ-aXUM--12">
           <mxGeometry x="560" y="368" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BEeGlGBGH3MMHQ-aXUM--38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="BEeGlGBGH3MMHQ-aXUM--12" source="BEeGlGBGH3MMHQ-aXUM--36" target="BEeGlGBGH3MMHQ-aXUM--37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BEeGlGBGH3MMHQ-aXUM--36" value="Process DV Doc Delivery Zip file" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="BEeGlGBGH3MMHQ-aXUM--12">
+          <mxGeometry x="110" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BEeGlGBGH3MMHQ-aXUM--40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="BEeGlGBGH3MMHQ-aXUM--12" source="BEeGlGBGH3MMHQ-aXUM--37" target="BEeGlGBGH3MMHQ-aXUM--39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BEeGlGBGH3MMHQ-aXUM--37" value="Emails PostClosing / ITSupport Missing SubServicerID Nos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="BEeGlGBGH3MMHQ-aXUM--12">
+          <mxGeometry x="260" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BEeGlGBGH3MMHQ-aXUM--42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="BEeGlGBGH3MMHQ-aXUM--12" source="BEeGlGBGH3MMHQ-aXUM--39" target="BEeGlGBGH3MMHQ-aXUM--41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BEeGlGBGH3MMHQ-aXUM--39" value="Renames DV PdfDoc Name to RMS Code &amp;amp; SubServicerID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="BEeGlGBGH3MMHQ-aXUM--12">
+          <mxGeometry x="410" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BEeGlGBGH3MMHQ-aXUM--41" value="Drops to FTP directory / Update Loan fields" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="BEeGlGBGH3MMHQ-aXUM--12">
+          <mxGeometry x="560" y="520" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
