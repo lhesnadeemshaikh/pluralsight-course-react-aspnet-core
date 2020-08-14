@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-14T18:28:08.963Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="A6aaifldU71ieD-jDOZY" version="13.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-14T18:29:41.144Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="aGF_cNTXmnPVQ7MNcfwW" version="13.6.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#283618" math="0" shadow="0">
       <root>
@@ -79,7 +79,7 @@
         <mxCell id="ukAXMG-o9yHxo5wVozn--12" value="&lt;br&gt;Bid&lt;br&gt;Exists" style="rhombus;whiteSpace=wrap;html=1;verticalAlign=top;strokeColor=none;fillColor=#BC6C25;fontColor=#FEFAE0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="543.75" y="312" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ukAXMG-o9yHxo5wVozn--14" value="Creates new Bid&lt;br&gt;Set system status to &quot;BidCreated&quot;" style="whiteSpace=wrap;html=1;verticalAlign=top;strokeColor=none;fillColor=#BC6C25;fontColor=#FEFAE0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ukAXMG-o9yHxo5wVozn--14" value="Creates new Bid&lt;br style=&quot;font-size: 10px&quot;&gt;Set system status to &quot;BidCreated&quot; &amp;amp; Direct Pricing Status &quot;Pending&quot;" style="whiteSpace=wrap;html=1;verticalAlign=top;strokeColor=none;fillColor=#BC6C25;fontColor=#FEFAE0;fontSize=10;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="661.75" y="322" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ukAXMG-o9yHxo5wVozn--19" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;strokeColor=#DDA15E;fontColor=#FEFAE0;labelBackgroundColor=#283618;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ukAXMG-o9yHxo5wVozn--16" target="ukAXMG-o9yHxo5wVozn--18">
