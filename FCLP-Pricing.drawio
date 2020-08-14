@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-14T18:23:25.239Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="zFFssq6fVnKRWykjJg56" version="13.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-14T18:25:14.863Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="CakC00CJI2itOHM4yips" version="13.6.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -117,11 +117,17 @@
         <mxCell id="ukAXMG-o9yHxo5wVozn--24" value="Bid&lt;br&gt;Has&lt;br&gt;Pricing" style="rhombus;whiteSpace=wrap;html=1;verticalAlign=top;strokeColor=none;fillColor=#00BEF2;fontSize=10;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="436.75" y="426" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="ukAXMG-o9yHxo5wVozn--31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;fontSize=10;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ukAXMG-o9yHxo5wVozn--26" target="ukAXMG-o9yHxo5wVozn--30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ukAXMG-o9yHxo5wVozn--26" value="Sets syste status to &quot;BidPriceInvalid&quot; &amp;amp; &lt;br&gt;Sets All BidPrice status to &quot;Invalid&quot;&amp;nbsp;" style="whiteSpace=wrap;html=1;fontSize=10;verticalAlign=top;strokeColor=none;fillColor=#00BEF2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="256.75" y="436" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ukAXMG-o9yHxo5wVozn--28" value="Sets system status to &quot;BidUpdated&quot;" style="whiteSpace=wrap;html=1;fontSize=10;verticalAlign=top;strokeColor=none;fillColor=#00BEF2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="416.75" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ukAXMG-o9yHxo5wVozn--30" value="Sets Direct Pricing Status to Pending" style="whiteSpace=wrap;html=1;fontSize=10;verticalAlign=top;strokeColor=none;fillColor=#00BEF2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="256.75" y="521" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
